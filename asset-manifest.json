@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/proj-react-todolist/static/css/main.e6065513.chunk.css",
-    "main.js": "/proj-react-todolist/static/js/main.6a6b1471.chunk.js",
-    "main.js.map": "/proj-react-todolist/static/js/main.6a6b1471.chunk.js.map",
-    "runtime-main.js": "/proj-react-todolist/static/js/runtime-main.b07ef3eb.js",
-    "runtime-main.js.map": "/proj-react-todolist/static/js/runtime-main.b07ef3eb.js.map",
-    "static/js/2.3e800439.chunk.js": "/proj-react-todolist/static/js/2.3e800439.chunk.js",
-    "static/js/2.3e800439.chunk.js.map": "/proj-react-todolist/static/js/2.3e800439.chunk.js.map",
-    "index.html": "/proj-react-todolist/index.html",
-    "precache-manifest.fb6cfa44dbe02faf6a8fe30651535146.js": "/proj-react-todolist/precache-manifest.fb6cfa44dbe02faf6a8fe30651535146.js",
-    "service-worker.js": "/proj-react-todolist/service-worker.js",
-    "static/css/main.e6065513.chunk.css.map": "/proj-react-todolist/static/css/main.e6065513.chunk.css.map",
-    "static/js/2.3e800439.chunk.js.LICENSE.txt": "/proj-react-todolist/static/js/2.3e800439.chunk.js.LICENSE.txt",
-    "static/media/global.scss": "/proj-react-todolist/static/media/Ubuntu-Regular.2505bfbd.ttf"
+    "main.css": "/proj-react-Todolist/static/css/main.b50b2ce5.chunk.css",
+    "main.js": "/proj-react-Todolist/static/js/main.8cbec6de.chunk.js",
+    "main.js.map": "/proj-react-Todolist/static/js/main.8cbec6de.chunk.js.map",
+    "runtime-main.js": "/proj-react-Todolist/static/js/runtime-main.1fc659fe.js",
+    "runtime-main.js.map": "/proj-react-Todolist/static/js/runtime-main.1fc659fe.js.map",
+    "static/js/2.3e800439.chunk.js": "/proj-react-Todolist/static/js/2.3e800439.chunk.js",
+    "static/js/2.3e800439.chunk.js.map": "/proj-react-Todolist/static/js/2.3e800439.chunk.js.map",
+    "index.html": "/proj-react-Todolist/index.html",
+    "precache-manifest.5c54120235c46848101635e49382c69f.js": "/proj-react-Todolist/precache-manifest.5c54120235c46848101635e49382c69f.js",
+    "service-worker.js": "/proj-react-Todolist/service-worker.js",
+    "static/css/main.b50b2ce5.chunk.css.map": "/proj-react-Todolist/static/css/main.b50b2ce5.chunk.css.map",
+    "static/js/2.3e800439.chunk.js.LICENSE.txt": "/proj-react-Todolist/static/js/2.3e800439.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/proj-react-Todolist/static/media/Ubuntu-Regular.2505bfbd.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b07ef3eb.js",
+    "static/js/runtime-main.1fc659fe.js",
     "static/js/2.3e800439.chunk.js",
-    "static/css/main.e6065513.chunk.css",
-    "static/js/main.6a6b1471.chunk.js"
+    "static/css/main.b50b2ce5.chunk.css",
+    "static/js/main.8cbec6de.chunk.js"
   ]
 }
